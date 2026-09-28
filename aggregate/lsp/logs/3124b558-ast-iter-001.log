@@ -1,0 +1,7 @@
+[2026-09-28T22:55:56Z] === AST ITERATION 1 START | repo=cspotcode/outdent sha=3124b558 ===
+[2026-09-28T22:55:56Z] [iter=1] PHASE START: ast repo=cspotcode/outdent sha=3124b558
+[2026-09-28T22:55:56Z] [iter=1] Building AST aggregate chunks
+[2026-09-28T23:00:18Z] [iter=1] AST chunks built count=1 triples=2916123
+[2026-09-28T23:00:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/3124b5584fbb3b25688751660fe6812a42bfb852/.complete
+[2026-09-28T23:00:18Z] [iter=1] PHASE END: ast elapsed_s=262 elapsed_min=4.4
+[2026-09-28T23:00:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
