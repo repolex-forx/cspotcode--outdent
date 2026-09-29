@@ -41,6 +41,160 @@
       ],
       "ast": [
         "aggregate/ast/3124b5584fbb3b25688751660fe6812a42bfb852/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3124b5584fbb3b25688751660fe6812a42bfb852.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@types/chai",
+          "ecosystem": "NPM",
+          "version": "4.0.4",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/fs-extra",
+          "ecosystem": "NPM",
+          "version": "9.0.5",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/mocha",
+          "ecosystem": "NPM",
+          "version": "2.2.43",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "14.14.12",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/webpack",
+          "ecosystem": "NPM",
+          "version": "4.4.11",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/which",
+          "ecosystem": "NPM",
+          "version": "1.0.28",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "chai",
+          "ecosystem": "NPM",
+          "version": "4.1.2",
+          "githubOrg": "chaijs",
+          "githubRepo": "chai",
+          "githubCommit": "529d395fa08091af2a02a8398b1144c51ed62178",
+          "githubTag": "4.1.2",
+          "githubUrl": "git+https://github.com/chaijs/chai.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "execa",
+          "ecosystem": "NPM",
+          "version": "5.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "execa",
+          "githubCommit": "f0c1785df19ca2bf82c339f2d02bc8645070fcf2",
+          "githubTag": "v5.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/execa.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "fs-extra",
+          "ecosystem": "NPM",
+          "version": "9.0.1",
+          "githubOrg": "jprichardson",
+          "githubRepo": "node-fs-extra",
+          "githubCommit": "7b12b058e27df560ba777756f38f977662c23750",
+          "githubTag": "9.0.1",
+          "githubUrl": "git+https://github.com/jprichardson/node-fs-extra.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mocha",
+          "ecosystem": "NPM",
+          "version": "4.0.1",
+          "githubOrg": "mochajs",
+          "githubRepo": "mocha",
+          "githubCommit": "eb8bf8de205f3fdba072e58440e55256e701a7ba",
+          "githubTag": "v4.0.1",
+          "githubUrl": "git+https://github.com/mochajs/mocha.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "np",
+          "ecosystem": "NPM",
+          "version": "6.2.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "np",
+          "githubCommit": "5d1a00bb5c40c30f6adb30b6ad4719d841de5e6b",
+          "githubTag": "v6.2.0",
+          "githubUrl": "git+https://github.com/sindresorhus/np.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ts-node",
+          "ecosystem": "NPM",
+          "version": "9.1.1",
+          "githubOrg": "TypeStrong",
+          "githubRepo": "ts-node",
+          "githubCommit": "d2ccc5cd20c77828817cd3acb639430eac4a884d",
+          "githubTag": "v9.1.1",
+          "githubUrl": "git://github.com/TypeStrong/ts-node.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "4.1.3 <4.2",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack",
+          "ecosystem": "NPM",
+          "version": "4.17.2",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack",
+          "githubCommit": "dfe6379052598a00f13bfa4f34ac73856ddf3dd0",
+          "githubTag": "v4.17.2",
+          "githubUrl": "git+https://github.com/webpack/webpack.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "which",
+          "ecosystem": "NPM",
+          "version": "1.3.0",
+          "githubOrg": "npm",
+          "githubRepo": "node-which",
+          "githubCommit": "49961dd14d9892be39f07d3f71e265d852abbff1",
+          "githubTag": "v1.3.0",
+          "githubUrl": "git+https://github.com/npm/node-which.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
