@@ -1,0 +1,11 @@
+{
+  "org": "cspotcode",
+  "repo": "outdent",
+  "versions": [
+    {
+      "commit": "3124b5584fbb3b25688751660fe6812a42bfb852",
+      "tag": "v0.8.0",
+      "parsed_at": "2026-09-29T07:11:19.889056+00:00"
+    }
+  ]
+}
