@@ -195,7 +195,9 @@
           "githubUrl": "git+https://github.com/npm/node-which.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/3124b5584fbb3b25688751660fe6812a42bfb852/chunk-001.nq.gz",
+      "dep": "dep/3124b5584fbb3b25688751660fe6812a42bfb852.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
